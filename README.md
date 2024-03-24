@@ -22,6 +22,10 @@
 6. Left-click to attack.
 7. Press F to collect coins.
 
+## Demo Video
+
+[Demo Video Link (click here)](https://youtu.be/6m9y8dp-pX8)
+
 ## About the Game
 
 - Defeating enemies earns coins. The game ends when the player's health reaches zero.
